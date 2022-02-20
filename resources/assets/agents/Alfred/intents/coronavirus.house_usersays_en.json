@@ -1,0 +1,54 @@
+[
+  {
+    "data": [
+      {
+        "text": "Someone in my house has ",
+        "userDefined": false
+      },
+      {
+        "text": "coronavirus",
+        "meta": "@covid-19",
+        "alias": "covid-19",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "What if my roommate is sick?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "What should I do if someone in my house gets sick with ",
+        "userDefined": false
+      },
+      {
+        "text": "COVID-19",
+        "meta": "@covid-19",
+        "alias": "covid-19",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

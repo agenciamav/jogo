@@ -1,0 +1,44 @@
+{
+  "id": "66f14dde-4852-4e87-94f3-e4a111ea666a",
+  "name": "coronavirus.help",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Needs vary by community. Check with your local community to see how you can help. Good places to start include the websites for your local government."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "14",
+          "platform": "telephony",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "ssml": "\u003cspeak\u003eNeeds vary by community. Check with your local community to see how you can help. Good places to start include the websites for your local government.\u003c/speak\u003e",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

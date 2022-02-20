@@ -1,0 +1,781 @@
+[
+  {
+    "id": "34d4ae6e-9788-4e26-a8cc-d0266f82eda2",
+    "data": [
+      {
+        "text": "how many people have died so far?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8900f32a-6954-4489-88c5-71df7508559c",
+    "data": [
+      {
+        "text": "what is the mortality rate so far ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0c6cb8e3-a194-4200-8243-270007ac5f02",
+    "data": [
+      {
+        "text": "people died in  ",
+        "userDefined": false
+      },
+      {
+        "text": "us",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "78a9d5b0-30e8-45fc-b2b6-d95fbce9fb57",
+    "data": [
+      {
+        "text": "How many deaths have been reported in ",
+        "userDefined": false
+      },
+      {
+        "text": "New Zealand",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0210f53a-401d-448d-ae56-290d849dfe98",
+    "data": [
+      {
+        "text": "deaths in ",
+        "userDefined": false
+      },
+      {
+        "text": "india",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d6a1f531-2396-4ace-bf36-b8044e86e83f",
+    "data": [
+      {
+        "text": "what is the mortality rrate in ages 30-40",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b2e7b874-653f-4495-af49-379fbc8ebad7",
+    "data": [
+      {
+        "text": "How many deaths have been reported in ",
+        "userDefined": false
+      },
+      {
+        "text": "korea",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a519b656-1218-4ddc-a856-a4df051e8c5e",
+    "data": [
+      {
+        "text": "How many people have died in ",
+        "userDefined": false
+      },
+      {
+        "text": "Jordan",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d58bf2bb-0d59-46cc-a29b-18c4a439e5c8",
+    "data": [
+      {
+        "text": "What\u0027s the number of deaf?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eab18798-b996-4ccf-bbff-13c56691feca",
+    "data": [
+      {
+        "text": "total death",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2e0e79c5-ae0b-4136-9ce6-9e7eabe04d68",
+    "data": [
+      {
+        "text": "total death in ",
+        "userDefined": false
+      },
+      {
+        "text": "US",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ca5b04f6-d67a-4872-8c39-1902dacf34c1",
+    "data": [
+      {
+        "text": "How many deaths have been reported in ",
+        "userDefined": false
+      },
+      {
+        "text": "France",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "133cf230-0308-40fb-8b67-e5ef6c565dcb",
+    "data": [
+      {
+        "text": "How many deaths have been reported in the ",
+        "userDefined": false
+      },
+      {
+        "text": "US",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aeca32d1-6720-4c9f-a13b-af04923bfa21",
+    "data": [
+      {
+        "text": "How many ",
+        "userDefined": false
+      },
+      {
+        "text": "Corona",
+        "meta": "@covid-19",
+        "alias": "covid-19",
+        "userDefined": false
+      },
+      {
+        "text": " work deaths have happened in the ",
+        "userDefined": false
+      },
+      {
+        "text": "United Kingdom",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8a16b937-b092-4eb5-a712-f09f75419c6e",
+    "data": [
+      {
+        "text": "Did anyone die come Coronavirus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d4b25d70-491d-4fce-a95d-82e9ba6f8ca1",
+    "data": [
+      {
+        "text": "How many people died from Corona virus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b54e843f-e0f3-4873-aa5b-fec7e6b45bb7",
+    "data": [
+      {
+        "text": "how many died in the ",
+        "userDefined": false
+      },
+      {
+        "text": "uk",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4e029de9-37f5-45b2-8aea-651225607424",
+    "data": [
+      {
+        "text": "died in usa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ca6f9c8d-12fe-4966-9590-026e5628f601",
+    "data": [
+      {
+        "text": "how many deaths so far in the ",
+        "userDefined": false
+      },
+      {
+        "text": "US",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ae565857-0cc1-483f-8a0b-f73f0fd0e24c",
+    "data": [
+      {
+        "text": "How many people have died?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b219b71c-ab41-4fd4-a421-b4627ef649d6",
+    "data": [
+      {
+        "text": "what is the current mortality rate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "adc4e556-d349-49a8-a525-c96df6e7b7a6",
+    "data": [
+      {
+        "text": "how many deaths have there been in the ",
+        "userDefined": false
+      },
+      {
+        "text": "us",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b7e7cd84-de3e-4ad1-9f0b-024bab23307b",
+    "data": [
+      {
+        "text": "How many deaths have there been from COVID-19 in the ",
+        "userDefined": false
+      },
+      {
+        "text": "United States",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e84a460-0e20-4413-bf31-3a6ed1769709",
+    "data": [
+      {
+        "text": "how many people die every day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b36f6d30-3adc-4d13-8e15-25262dee24aa",
+    "data": [
+      {
+        "text": "how many people have died",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7a6aa8b3-0c8a-48ef-a56d-4e74a53de37a",
+    "data": [
+      {
+        "text": "What is the mortality rate for covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c8c03232-74fd-48d7-b33c-2c5413915896",
+    "data": [
+      {
+        "text": "How many people have died covid?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d431a9e6-ea18-4b20-87c2-c6f97d65ddcd",
+    "data": [
+      {
+        "text": "How many people have died in San Bernardino County?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f9797bea-aeb4-4ca7-994f-d2442e8c57f0",
+    "data": [
+      {
+        "text": "the total number of deaths",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ab425a4a-d661-4cdf-b1ef-c64c43aaf16e",
+    "data": [
+      {
+        "text": "what is the death toll",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3189aff7-b4c0-40bd-b0af-a22f8c30cf50",
+    "data": [
+      {
+        "text": "How many deaths have resulted from covid-19?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "08934440-b4f4-46c3-bb96-d514763eab19",
+    "data": [
+      {
+        "text": "How many people globally have died from the ",
+        "userDefined": false
+      },
+      {
+        "text": "coronavirus",
+        "meta": "@covid-19",
+        "alias": "covid-19",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b30337cd-814e-42b5-a0f6-065d11401f9a",
+    "data": [
+      {
+        "text": "what\u0027s the fatality rate?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2b12dfcb-4a33-4b0a-9274-8a8252390a69",
+    "data": [
+      {
+        "text": "can you tell me death rate by age?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6a0368e2-d659-4120-8016-69863773b157",
+    "data": [
+      {
+        "text": "was is the mortality rate?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "25ebb944-d7d6-43f8-bed0-fa703488d4a9",
+    "data": [
+      {
+        "text": "Death rate in king county today",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9473c9dc-5186-41fb-a972-0761116d1a55",
+    "data": [
+      {
+        "text": "Death count",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b46beb12-6803-4806-95cb-90b824c40330",
+    "data": [
+      {
+        "text": "fatality rate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d63a42f2-047b-4775-bec8-e1f5285d2740",
+    "data": [
+      {
+        "text": "what is the current death count?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0357f84d-053d-460e-b409-67db75bdf74c",
+    "data": [
+      {
+        "text": "US",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "coronavirus",
+        "meta": "@covid-19",
+        "alias": "covid-19",
+        "userDefined": false
+      },
+      {
+        "text": " death toll",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0e49c33f-c239-4a5d-aeb6-6b84332307ea",
+    "data": [
+      {
+        "text": "coronavirus",
+        "meta": "@covid-19",
+        "alias": "covid-19",
+        "userDefined": false
+      },
+      {
+        "text": " death toll",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f31dec7e-48c0-4733-b80a-b4fb32a014f9",
+    "data": [
+      {
+        "text": "how many people died",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3326a6b5-588a-4ac0-a772-d57cbc2fdcb8",
+    "data": [
+      {
+        "text": "deaths number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6891c182-8a19-48f5-b485-29003992ed79",
+    "data": [
+      {
+        "text": "how many deaths",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7ff17a0f-e8e9-47ab-99e4-60808001a500",
+    "data": [
+      {
+        "text": "death rate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "79a9ba90-ad0c-43c3-a2b4-7d3ace06362c",
+    "data": [
+      {
+        "text": "What is the death rate of ",
+        "userDefined": false
+      },
+      {
+        "text": "coronavirus",
+        "meta": "@covid-19",
+        "alias": "covid-19",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7591a91b-c1d4-453f-90f4-81ad90839a69",
+    "data": [
+      {
+        "text": "How many people have died from ",
+        "userDefined": false
+      },
+      {
+        "text": "coronavirus",
+        "meta": "@covid-19",
+        "alias": "covid-19",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

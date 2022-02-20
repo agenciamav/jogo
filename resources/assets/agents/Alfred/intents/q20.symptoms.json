@@ -1,0 +1,89 @@
+{
+  "id": "1661cc7b-8395-4c1a-9d54-5f2992142b74",
+  "name": "q20.symptoms",
+  "auto": true,
+  "contexts": [
+    "pronouns",
+    "q20-symptoms"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "14",
+          "platform": "telephony",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "ssml": "\u003cspeak\u003eDo #pronouns.pronoun1 have any of the following symptoms. Chills. Fatigue. Muscle or body aches. Headaches. New loss of taste or smell. Sore throat. Congestion or runny nose. Nausea or vomiting. Diarrhea.\u003cspeak\u003e",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "text": [
+                    "Chills",
+                    "Fatigue",
+                    "Muscle or body aches",
+                    "Headaches",
+                    "New loss of taste or smell",
+                    "Sore throat",
+                    "Congestion or runny nose",
+                    "Nausea or vomiting",
+                    "Diarrhea"
+                  ],
+                  "title": "Do #pronouns.pronoun1 have any of the following symptoms:",
+                  "type": "description"
+                }
+              ],
+              [
+                {
+                  "options": [
+                    {
+                      "image": {},
+                      "text": "Yes",
+                      "link": ""
+                    },
+                    {
+                      "text": "No",
+                      "image": {},
+                      "link": ""
+                    }
+                  ],
+                  "type": "chips"
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telephony": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "trigger-question"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

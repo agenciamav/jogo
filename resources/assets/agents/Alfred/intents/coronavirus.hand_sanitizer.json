@@ -1,0 +1,44 @@
+{
+  "id": "b5bad0e1-a46c-44a2-bb0a-0ee15216913a",
+  "name": "coronavirus.hand_sanitizer",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The CDC recommends washing your hands with soap and water for at least 20 seconds. If soap and water aren\u0027t available, use an alcohol-based hand sanitizer with at least 60% alcohol. Liquor shouldn\u0027t be used in place of hand sanitizer."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "14",
+          "platform": "telephony",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "ssml": "\u003cspeak\u003eThe CDC recommends washing your hands with soap and water for at least 20 seconds. If soap and water aren\u0027t available, use an alcohol-based hand sanitizer with at least 60% alcohol. Liquor shouldn\u0027t be used in place of hand sanitizer.\u003c/speak\u003e",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

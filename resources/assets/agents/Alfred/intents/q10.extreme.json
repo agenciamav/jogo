@@ -1,0 +1,84 @@
+{
+  "id": "8dd1771b-86f6-411a-8b9e-9aed564e1987",
+  "name": "q10.extreme",
+  "auto": true,
+  "contexts": [
+    "pronouns",
+    "q10-extreme"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "14",
+          "platform": "telephony",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "ssml": "\u003cspeak\u003eAre #pronouns.pronoun1 experiencing any of these life-threatening symptoms? Difficulty breathing. Persistent pain or pressure in the chest. New confusion. Inability to wake or stay awake.\u003c/speak\u003e",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "description",
+                  "text": [
+                    "Difficulty breathing",
+                    "Persistent pain or pressure in the chest",
+                    "New confusion",
+                    "Inability to wake or stay awake"
+                  ],
+                  "title": "Are #pronouns.pronoun1 experiencing any of these life-threatening symptoms?"
+                }
+              ],
+              [
+                {
+                  "type": "chips",
+                  "options": [
+                    {
+                      "link": "",
+                      "text": "Yes",
+                      "image": {}
+                    },
+                    {
+                      "link": "",
+                      "text": "No",
+                      "image": {}
+                    }
+                  ]
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telephony": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "trigger-question"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

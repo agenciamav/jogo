@@ -1,0 +1,67 @@
+[
+  {
+    "id": "079b1974-4ac1-4b70-8e73-7f0d6c0c051a",
+    "data": [
+      {
+        "text": "Should my child wear a mask?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4272639b-7c12-44f0-b44d-493413b04bd9",
+    "data": [
+      {
+        "text": "Children masks",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7a09975a-0a48-45b1-93f2-b0c503b91267",
+    "data": [
+      {
+        "text": "Masks and kids",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c93c5b2c-c674-4be2-97a7-9db96f8fd4d2",
+    "data": [
+      {
+        "text": "Can kids wear masks?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d16c49c4-c5d0-4ef8-8903-e86a77a6f2f1",
+    "data": [
+      {
+        "text": "Should children wear masks?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

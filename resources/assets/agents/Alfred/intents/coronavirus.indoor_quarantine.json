@@ -1,0 +1,44 @@
+{
+  "id": "a1c784a6-4520-4459-af12-694f68c3fa80",
+  "name": "coronavirus.indoor_quarantine",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "14",
+          "platform": "telephony",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "ssml": "\u003cspeak\u003eFollow local authorities for shelter in place guidelines. In addition, the CDC recommends that you stay home if you are showing signs of \u003csub alias\u003d\"covid 19\"\u003eCOVID-19\u003c/sub\u003e or are mildly ill, except to get medical care. If you have \u003csub alias\u003d\"covid 19\"\u003eCOVID-19\u003c/sub\u003e symptoms, separate yourself from other people and pets in your home.\u003c/speak\u003e",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Follow local authorities for shelter in place guidelines. In addition, the CDC recommends that you stay home if you are showing signs of COVID-19 or are mildly ill, except to get medical care. If you have COVID-19 symptoms, separate yourself from other people and pets in your home."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

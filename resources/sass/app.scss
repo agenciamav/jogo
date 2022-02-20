@@ -1,0 +1,36 @@
+@import "~bootstrap/scss/bootstrap";
+
+html, body {
+    background-color: #fefefe;
+    color: #fefefe;
+    font-family: "Work Sans", sans-serif;
+    font-weight: 400;
+    height: 100vh;
+    margin: 0;
+    letter-spacing: -1.5px;
+    font-size: 20px;
+}
+
+df-messenger {
+    --df-messenger-bot-message: #fefefe; /* Cor de segundo plano do balão para mensagens do agente. */
+    --df-messenger-button-titlebar-color: #fefefe; /* Cor do botão flutuante e da barra de título da caixa de diálogo do chat. */
+    --df-messenger-button-titlebar-font-color: #090e52; /* Cor da fonte do título na barra de título. */
+    --df-messenger-chat-background-color: #fcfcfc; /* Cor do segundo plano da caixa de diálogo de chat. */
+    --df-messenger-font-color: #090e52; /* Cor da fonte para mensagens. */
+    --df-messenger-input-box-color: #fefefe; /* Cor do segundo plano da caixa de entrada de texto. */
+    --df-messenger-input-font-color: #090e52; /* Cor da fonte da caixa de entrada de texto. */
+    --df-messenger-input-placeholder-font-color: #7a7b92; /* Cor da fonte do texto do marcador na caixa de entrada de texto. */
+    --df-messenger-minimized-chat-close-icon-color: #fefefe; /* Cor do ícone de fechamento na visualização de chat fechada. */
+    --df-messenger-send-icon: #090e52; /* Cor do ícone de envio na caixa de entrada de texto. */
+    --df-messenger-user-message: #fefefe;
+    font-family: 'Work Sans', sans-serif !important;
+    font-size: 16px;
+    letter-spacing: 0;
+}
+
+#messageList .message {
+    background: white;
+    border: 1px solid #e0e0e0;
+    border-radius: 5px !important;
+    color: var(--df-messenger-font-color);
+}

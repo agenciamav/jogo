@@ -1,0 +1,106 @@
+[
+  {
+    "id": "43d3e645-51f1-4aa9-b1d6-0f59b481c5d7",
+    "data": [
+      {
+        "text": "no satisfied",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c5293606-7f9a-43a7-a0e6-f810328abefd",
+    "data": [
+      {
+        "text": "not satisfied",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b5e017ff-3e15-4cca-b4a3-f16c5b2bbe91",
+    "data": [
+      {
+        "text": "I do not have the information I need",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d4987df9-7a2f-488f-8780-d62b9b92eb35",
+    "data": [
+      {
+        "text": "I don\u0027t have the information I need",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "45f6fd11-5866-4545-9c11-7ab21a1d7a60",
+    "data": [
+      {
+        "text": "This was not helpful",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "821651b4-5c9f-487b-ac51-6ca0daa1c19b",
+    "data": [
+      {
+        "text": "I am unhappy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "495f3425-d89c-48cc-92c7-1b957813a005",
+    "data": [
+      {
+        "text": "I am not satisfied",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d2d133ae-5e84-493b-afa7-acfb543f872a",
+    "data": [
+      {
+        "text": "I\u0027m not satisfied",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

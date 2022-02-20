@@ -1,0 +1,44 @@
+{
+  "id": "85fadacc-152d-4343-b9b0-a1b089c9e727",
+  "name": "coronavirus.airborne",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "14",
+          "platform": "telephony",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "ssml": "\u003cspeak\u003eSo far, studies suggest that the virus that causes COVID-19 is mainly transmitted through the respiratory droplets that spread when someone exhales, coughs, or sneezes. Those droplets can travel through the air and eventually land on surfaces.\u003c/speak\u003e",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "So far, studies suggest that the virus that causes COVID-19 is mainly transmitted through the respiratory droplets that spread when someone exhales, coughs, or sneezes. Those droplets can travel through the air and eventually land on surfaces."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

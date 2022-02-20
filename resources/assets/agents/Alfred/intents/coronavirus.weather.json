@@ -1,0 +1,44 @@
+{
+  "id": "a40626c6-50a4-4c54-908b-06348ed41b6d",
+  "name": "coronavirus.weather",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "14",
+          "platform": "telephony",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "ssml": "\u003cspeak\u003eIt is not yet known whether weather and temperature affect the spread of \u003csub alias\u003d\"covid 19\"\u003eCOVID-19\u003c/sub\u003e. Some other viruses, like those that cause the common cold and flu, spread more during cold weather months but it\u0027s still possible to get sick with these viruses at other times. There is much more to learn about the transmissibility, severity, and other features associated with \u003csub alias\u003d\"covid 19\"\u003eCOVID-19\u003c/sub\u003e.\u003c/speak\u003e",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "It is not yet known whether weather and temperature affect the spread of COVID-19. Some other viruses, like those that cause the common cold and flu, spread more during cold weather months but it\u0027s still possible to get sick with these viruses at other times. There is much more to learn about the transmissibility, severity, and other features associated with COVID-19."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

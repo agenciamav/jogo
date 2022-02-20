@@ -1,0 +1,93 @@
+{
+  "id": "d43e0cdb-961d-468d-9b74-3b3537e9f3e0",
+  "name": "q30.additionalrisks",
+  "auto": true,
+  "contexts": [
+    "pronouns",
+    "q30-additionalrisks"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "14",
+          "platform": "telephony",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "ssml": "\u003cspeak\u003eDo #pronouns.pronoun1 have any of the following: Asthma, Cancer, Cerebrovascular disease, Cystic fibrosis, Diabetes mellitus, Type 1, Hypertension or high blood pressure, Immunocompromised state (weakened immune system), Neurologic conditions,  Liver disease, Pregnancy, Pulmonary fibrosis, Smoking, Thalassemia\u003c/speak\u003e",
+          "condition": ""
+        },
+        {
+          "type": "4",
+          "title": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "description",
+                  "title": "Do #pronouns.pronoun1 have any of the following:",
+                  "text": [
+                    "Asthma",
+                    "Cancer",
+                    "Cerebrovascular disease",
+                    "Cystic fibrosis",
+                    "Diabetes mellitus, Type 1",
+                    "Hypertension or high blood pressure",
+                    "Immunocompromised state (weakened immune system)",
+                    "Neurologic conditions",
+                    "Liver disease",
+                    "Pregnancy",
+                    "Pulmonary fibrosis",
+                    "Smoking",
+                    "Thalassemia"
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "chips",
+                  "options": [
+                    {
+                      "text": "Yes",
+                      "image": {},
+                      "link": ""
+                    },
+                    {
+                      "text": "No",
+                      "image": {},
+                      "link": ""
+                    }
+                  ]
+                }
+              ]
+            ]
+          },
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telephony": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "trigger-question"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

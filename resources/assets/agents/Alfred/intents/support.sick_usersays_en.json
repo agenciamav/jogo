@@ -1,0 +1,1638 @@
+[
+  {
+    "id": "69d3ba33-e323-4b56-94a9-a24bb424ede9",
+    "data": [
+      {
+        "text": "Should I get tested if I don\u0027t feel that sick",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8744bdbb-9c70-403c-bf4f-374aeb20d7fb",
+    "data": [
+      {
+        "text": "I feel sick",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3535fd7c-5657-4be7-8aea-f83708e38a09",
+    "data": [
+      {
+        "text": "Fever",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8ecb4421-ebf8-40c9-b5c2-3e08d54c22db",
+    "data": [
+      {
+        "text": "Am I going to die?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a6aadd89-e88c-412e-8037-fec38d23a1ca",
+    "data": [
+      {
+        "text": "nausea",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a457f25b-be9d-4f2d-a6c4-9bf87ce6ef5e",
+    "data": [
+      {
+        "text": "coughing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b0f71b13-750f-4745-a400-a89e24e0a770",
+    "data": [
+      {
+        "text": "should I go to hospital if I feel sick",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "61564448-5288-4b08-ae2f-115da82caf65",
+    "data": [
+      {
+        "text": "i am a bit sore throat, dizzying, am I got the virus ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "29fede50-5fd5-44a2-ae08-d350c07fb175",
+    "data": [
+      {
+        "text": "i am a bit sore throat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ddbdc7b5-af7c-43ce-98b8-b3881da3f48b",
+    "data": [
+      {
+        "text": "I am coughing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1478a2da-dd94-46ae-9059-ae33f721b8ca",
+    "data": [
+      {
+        "text": "I have a cold",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "749cf011-1341-4b02-ba25-bba7e51906d5",
+    "data": [
+      {
+        "text": "cough",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f44c6a87-c013-446b-9db8-1f7a888e2b93",
+    "data": [
+      {
+        "text": "my temperature is ",
+        "userDefined": false
+      },
+      {
+        "text": "37.5 degree celsius",
+        "meta": "@sys.temperature",
+        "alias": "temperature",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a8d46e9b-e2cf-461d-bdf3-828b163056ef",
+    "data": [
+      {
+        "text": "I have a temperature",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d5cd701e-2782-4f93-b0f2-9c051a5002ac",
+    "data": [
+      {
+        "text": "I can\u0027t taste or smell anything",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d0788142-f018-4077-a89c-212189dfaa68",
+    "data": [
+      {
+        "text": "I can\u0027t taste",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b9cb4ba2-cdb2-4f76-b087-93fc7c30be5e",
+    "data": [
+      {
+        "text": "I can\u0027t smell",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a62a6f6a-a075-4dc8-9c1a-14a1c139098c",
+    "data": [
+      {
+        "text": "I have fever",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "09340408-a5c6-4372-be18-a7c249d13789",
+    "data": [
+      {
+        "text": "I\u0027m not feeling well. What can I do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "951c08eb-217c-44fb-a826-632e40f21fda",
+    "data": [
+      {
+        "text": "how do i manage symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "81d21ff0-8f62-454b-8bd2-29776121892c",
+    "data": [
+      {
+        "text": "Okay, what if I feel sick?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "94c3fb65-07b1-4cd0-bf75-51d2e64818c9",
+    "data": [
+      {
+        "text": "I\u0027m feeling I have a headache and I feeling sick. What should I do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "579f14cc-62a0-46b3-b588-6f559421d1e0",
+    "data": [
+      {
+        "text": "What should I do if I have a sore throat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "46f79846-83de-4fcf-bc72-95d36c5376f7",
+    "data": [
+      {
+        "text": "how do i manage my symptoms?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "52410dac-b540-4f11-a6e3-ef8c1555b28c",
+    "data": [
+      {
+        "text": "what should i do if i get the virus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "79d267ee-d50e-4ba7-a9de-97a80aa5b422",
+    "data": [
+      {
+        "text": "What should I do if I have coronavirus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8533f212-a76e-4854-93aa-9ad0baa81740",
+    "data": [
+      {
+        "text": "I think I\u0027ve been infected with coronavirus. What should I do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6f8a142f-dc5a-433b-bbb9-16cada0cda2a",
+    "data": [
+      {
+        "text": "what should I do if I am sick",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3ab823d9-e691-4f48-abe4-827d8786789f",
+    "data": [
+      {
+        "text": "i have a runny nose, should I be tested?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ddb0ddff-21ff-4e39-aaf0-7c9920c2bcb6",
+    "data": [
+      {
+        "text": "My throat hurts",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d1057a03-8f12-4167-ac9d-56ad057874fe",
+    "data": [
+      {
+        "text": "What should I do if my throat hurts?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d7808f4b-cec7-4772-98e2-ff691c7b7845",
+    "data": [
+      {
+        "text": "What should I do if my wife has Coronavirus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "719b01cb-152c-4e56-bb2b-cc2bb5872ad6",
+    "data": [
+      {
+        "text": "what should I do if I have a fever?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7f2e8890-35e1-440c-9b93-6c83dc0ca74a",
+    "data": [
+      {
+        "text": "who can i call?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2ba47762-4d09-433c-99e1-6271dc3e7c18",
+    "data": [
+      {
+        "text": "Do I have coronavirus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ad91d228-ded1-4086-9b09-fd8a6b88fe50",
+    "data": [
+      {
+        "text": "i have been exposed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8f43c44a-0230-484f-8856-31781fe111e4",
+    "data": [
+      {
+        "text": "i think i have corona",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ce6fdff1-5b88-4c47-ab65-c1d5a2320309",
+    "data": [
+      {
+        "text": "I have a fever",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "85d89dd1-c435-43a8-97a7-3d4b66d8f7ac",
+    "data": [
+      {
+        "text": "Where can I get help?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "998e6c01-644e-47bf-a29b-c77d4a7840e1",
+    "data": [
+      {
+        "text": "what if I can\u0027t get the medicine I need?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0e088445-53b0-4075-adfd-f493688d219d",
+    "data": [
+      {
+        "text": "i have fever and cough",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be531abe-727c-411f-b3c6-ec426d755654",
+    "data": [
+      {
+        "text": "I have a sore throat and a fever, what should I do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "81303642-166b-4083-a959-d3f478ff90a6",
+    "data": [
+      {
+        "text": "sore throat and a fever",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bb29f896-0911-4241-9401-614673507652",
+    "data": [
+      {
+        "text": "I\u0027m having a fever and a cough",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bf112e26-64b6-459f-8dbd-11fda9acef69",
+    "data": [
+      {
+        "text": "I have a fever and cough. What can I do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "41c1ad94-8b56-4b7b-9d25-925aba1d7267",
+    "data": [
+      {
+        "text": "i don\u0027t feel well",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a6fa8f96-3973-42eb-9fd4-f9c4c40766da",
+    "data": [
+      {
+        "text": "i have a fever",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "703b9cd0-917a-46c8-b909-848cf379ef96",
+    "data": [
+      {
+        "text": "i have a high fever",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4580d2ed-bf00-4758-b13c-52e742b550e1",
+    "data": [
+      {
+        "text": "i have a fever and a cough",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c8e7b546-6bd5-4655-96fd-a5aab2a3ce93",
+    "data": [
+      {
+        "text": "should i take medicine?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eb8ce393-3683-48c6-b9fb-21b3540f0fd6",
+    "data": [
+      {
+        "text": "how long will i be sick for?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "911c6a33-7920-4988-a218-7ed7eada4778",
+    "data": [
+      {
+        "text": "how long does the sickness last",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5794fe76-8e14-4bb3-b7ff-48ee8f46dd0a",
+    "data": [
+      {
+        "text": "where can I turn to if I need to speak with someone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e8387d4c-5844-43df-b2e2-4c2dbc08b16d",
+    "data": [
+      {
+        "text": "What should I do if I think I have the coronavirus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "02ec6b62-e8af-4613-94c4-2546edb3bf23",
+    "data": [
+      {
+        "text": "where can I go for emergency in ",
+        "userDefined": false
+      },
+      {
+        "text": "san francisco",
+        "meta": "@sys.geo-city",
+        "alias": "geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "52993dc0-248a-4991-8af4-49553759576d",
+    "data": [
+      {
+        "text": "when do I know if I have to call my doctor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "97aa2d0c-39dc-45c4-aa41-c7adf8bf2a41",
+    "data": [
+      {
+        "text": "i have a fever, should I worry?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "db301329-37e9-405c-aebb-7d53d1382798",
+    "data": [
+      {
+        "text": "Hi - I have some shortness of breath, but it might be allergies",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f15fc622-aabc-48dc-96bf-bdfeb4e2978a",
+    "data": [
+      {
+        "text": "I have shortness of breath - what should i do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "505f54be-82f2-4215-a65e-2f3ce02e777a",
+    "data": [
+      {
+        "text": "where should I go if I have symptoms?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c059a712-adb5-4003-bc76-7e0352a42520",
+    "data": [
+      {
+        "text": "What do I do if I\u0027m not feeling well?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "28e1f324-49c4-472d-8f41-972457b5a386",
+    "data": [
+      {
+        "text": "What do I do if I have the virus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "54a79cf1-aaff-49bc-b267-1522561ed871",
+    "data": [
+      {
+        "text": "Do I have coronavirus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a8cdcb3f-e9b9-4c11-8c91-444585fd7ac1",
+    "data": [
+      {
+        "text": "I have a fever and a cough. What can I do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "65e3e56f-432d-4afb-8491-de8a8d725225",
+    "data": [
+      {
+        "text": "Where can I seek help?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dea791e9-7a29-4a64-9cde-fd67d9c22c58",
+    "data": [
+      {
+        "text": "what temperature should I look for?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5c45b9ad-0a44-4c12-8cf3-e2eacceb400b",
+    "data": [
+      {
+        "text": "what temperature is a fever?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1cc08e1f-4530-4f34-9ed6-c9471a2fb6eb",
+    "data": [
+      {
+        "text": "how do i get help?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2dba1bce-ea8e-491c-82b3-94da05454882",
+    "data": [
+      {
+        "text": "home remedies?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "56710376-7b19-484e-bdb2-0eb86c744dac",
+    "data": [
+      {
+        "text": "what should i be doing if I am tested positive?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a955ef6c-23c1-4d71-82a1-54573ff6a2f3",
+    "data": [
+      {
+        "text": "what to do/",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cfc6f7e6-d4ea-4ddb-b9ed-8bc9cfcf22cb",
+    "data": [
+      {
+        "text": "What should I do if I cough?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9ce4d241-4f41-44e2-ae12-8633617b979a",
+    "data": [
+      {
+        "text": "im sick",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ec153d9f-8082-44c1-bf4c-d135d1f66596",
+    "data": [
+      {
+        "text": "I have corona virus what should I do",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "15e848cc-426c-4ddb-a083-35096496ad30",
+    "data": [
+      {
+        "text": "what are the help line numbers for covid 19?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7ec7db9d-4fe3-42cd-a283-86c8a242d040",
+    "data": [
+      {
+        "text": "what should I do if see symptoms of covid ",
+        "userDefined": false
+      },
+      {
+        "text": "19",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5e76527f-5da4-485a-834b-cddbae5defab",
+    "data": [
+      {
+        "text": "I am sneezing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "641e16f7-521a-4d6d-b88e-619801fdaabe",
+    "data": [
+      {
+        "text": "I am feeling tired",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "007e34ef-6c27-4d3c-9fa3-022e1cb46568",
+    "data": [
+      {
+        "text": "what should i do if i am tested positive?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "16e76c55-71ae-4927-a841-27ae50326134",
+    "data": [
+      {
+        "text": "When shall I go to see a doctor?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ba2138ab-fa84-459f-bc79-f3a0ac81a01c",
+    "data": [
+      {
+        "text": "When should I go to the hospital?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "90ff1f77-dba0-436d-844a-497d2f92f3a7",
+    "data": [
+      {
+        "text": "do I have the virus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2e158ed5-220a-4c10-a4a6-347ce30c806f",
+    "data": [
+      {
+        "text": "My child has covid-19, do I need to stay away from them?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0c399e8f-d2d1-4332-9062-7240389e2c4e",
+    "data": [
+      {
+        "text": "I think my child has the virus, what do I do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7b9fd371-f8b6-4479-b946-e43841f9f085",
+    "data": [
+      {
+        "text": "how do I know I have the virus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9da82664-ef38-45d6-b6e9-ec8c7fa9cfa4",
+    "data": [
+      {
+        "text": "if you have a headache, do you have the coronavirus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "28281c0a-f34f-4166-a2d0-648dc4653488",
+    "data": [
+      {
+        "text": "am i going to die",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ed3b837e-aa8f-4ab4-bb6b-1d4c32e51b51",
+    "data": [
+      {
+        "text": "Where should I go if i have symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "441cc628-8cc8-465d-a378-e0648a313fa1",
+    "data": [
+      {
+        "text": "Do I have the virus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e9a94422-36d1-4b23-b0b9-aa92c2ff7277",
+    "data": [
+      {
+        "text": "if you have a headache, do you have the coronavirus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e4342143-8dac-42c9-aecf-fbfd18800083",
+    "data": [
+      {
+        "text": "Am I going to die",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a477ea1d-cbc7-444d-b00e-82de2eb9e6da",
+    "data": [
+      {
+        "text": "am i going to die?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ada9bbcd-a00f-4a96-8a27-b58f743f879a",
+    "data": [
+      {
+        "text": "my child may be sick, do i need to see a doctor?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "513720b1-c029-4888-a44c-1386ff5e24ce",
+    "data": [
+      {
+        "text": "fever",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "906bf36b-fe5b-495a-840e-f13a968be667",
+    "data": [
+      {
+        "text": "how high of a fever to expect.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b033fe84-12bd-458e-98cd-1c3b3bb0a97b",
+    "data": [
+      {
+        "text": "how high of a fever should I be concerned with?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3516279a-9239-4833-99a1-006afb2064b3",
+    "data": [
+      {
+        "text": "I have shortness of breath - what should I do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "96877538-d984-42cc-bec5-75feb2392b34",
+    "data": [
+      {
+        "text": "should I get tested if I have a headache",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a9195146-8794-485c-b183-bef36f481a27",
+    "data": [
+      {
+        "text": "help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "578762b2-765a-41b2-9941-6c996e317e20",
+    "data": [
+      {
+        "text": "What do I do if i suspect that I have symptoms of the virus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "753721a8-7f9e-403b-b517-e91c412635b8",
+    "data": [
+      {
+        "text": "What if I think I have the virus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "da5b15b4-c82d-4c82-8e02-ac0ad6ec74be",
+    "data": [
+      {
+        "text": "how will I know I need a test for Coronavirus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f220cc92-366f-48e7-b9af-955d4c6c9309",
+    "data": [
+      {
+        "text": "Hi - I think that I might have coronavirus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cfa5506a-9b5f-48f9-ae4f-1f921ed61836",
+    "data": [
+      {
+        "text": "where should I go if I have symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ca29c340-d809-4b7d-961e-53a3634dbd1c",
+    "data": [
+      {
+        "text": "What should I do if I feel sick?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5ffbc515-84cf-4413-a00b-963ac7ebb310",
+    "data": [
+      {
+        "text": "I think I\u0027ve been exposed. What should I do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5112ca6c-54fe-4d78-bd39-b93071bf5a76",
+    "data": [
+      {
+        "text": "what happens if my child has the virus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "faeb1c75-7483-4be3-8e32-b4230ffb405f",
+    "data": [
+      {
+        "text": "What do I do if I have Corona virus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "becdabaa-fba8-4e5b-a886-e18934c9b17e",
+    "data": [
+      {
+        "text": "What do I do if I have Coronavirus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ddb31a79-9243-4e54-ac96-273a40b997d5",
+    "data": [
+      {
+        "text": "I\u0027m feeling sick, what should I do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5aa799c1-ed3f-4a8b-b6c4-64b1153476a8",
+    "data": [
+      {
+        "text": "I can\u0027t move",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7431232f-cfb0-49f4-9067-939a0f53c13a",
+    "data": [
+      {
+        "text": "What do I do if my left foot hurts",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "38cf6f66-e632-4b7a-8f25-7eafbe7b0458",
+    "data": [
+      {
+        "text": "I think I have corona what should I do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "87a587ad-7a6c-4865-af82-8b0c9bb23fe7",
+    "data": [
+      {
+        "text": "who should i contact if i think i have covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ab961a61-eba9-4a3d-be76-bfd5df45c908",
+    "data": [
+      {
+        "text": "My kids don\u0027t feel well",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "440f40f2-bd8e-44b6-ac76-da98e6d9ef7a",
+    "data": [
+      {
+        "text": "I\u0027m worried I have covid ",
+        "userDefined": false
+      },
+      {
+        "text": "19",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "02b4bd8c-2c52-4440-8c42-b08aacf0582d",
+    "data": [
+      {
+        "text": "I just threw up",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "937da58c-70e7-45a8-89f5-7355ff2b6697",
+    "data": [
+      {
+        "text": "I\u0027m coughing like crazy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eb7f117c-1b39-4e49-8d50-95d3c85d6337",
+    "data": [
+      {
+        "text": "Do I have Caronavirus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f1845aa0-b3e0-4990-832f-e95ac705fc5d",
+    "data": [
+      {
+        "text": "I don\u0027t feel well",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7cd8c78b-1c30-4dee-ab2f-86fabf084d9c",
+    "data": [
+      {
+        "text": "My dad is 72 years old and he has symptoms last week. Do I need to take him to the hospital?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "505c4106-2150-44b3-953e-5fb97970e91f",
+    "data": [
+      {
+        "text": "Help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bd052aec-4e69-4b72-b18a-8ba14f0c3d3c",
+    "data": [
+      {
+        "text": "Where should I go if i have any symptoms?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6a1af861-db3f-43c1-abba-95fc990a725b",
+    "data": [
+      {
+        "text": "i feel sick",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

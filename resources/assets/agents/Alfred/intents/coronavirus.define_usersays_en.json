@@ -1,0 +1,555 @@
+[
+  {
+    "id": "0852ca74-a26e-46d3-8aeb-b5445e1fd1d1",
+    "data": [
+      {
+        "text": "What is Covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "641fe079-32c0-40cc-a828-e8da1c3145bd",
+    "data": [
+      {
+        "text": "COVID-19",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dcb4e00c-c07d-45a2-98e2-78cf9c6b5fab",
+    "data": [
+      {
+        "text": "What is covid-19?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "142cb3f0-171c-4aae-9f30-5c4ebf566069",
+    "data": [
+      {
+        "text": "what is corona",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "64799c1d-c31f-4d1e-8d72-152cc5004360",
+    "data": [
+      {
+        "text": "what is covid-19 and why should i worry?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e6dff466-4c0b-4490-99a0-569250465515",
+    "data": [
+      {
+        "text": "what is the difference between corona and covid-19",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a062cfc6-5b1c-4ca8-a311-bfd108e6bd56",
+    "data": [
+      {
+        "text": "Okay. Can you define coronavirus for me, please?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "26097b38-3695-44c4-957c-7f41e99c510d",
+    "data": [
+      {
+        "text": "virus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8d43903c-f6d2-4307-be23-8e53e1b09f67",
+    "data": [
+      {
+        "text": "Is corona related to the flu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0e4c8bf1-4ebd-4f96-a5a9-0e17fec07403",
+    "data": [
+      {
+        "text": "can you get pneumonia from corona",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "540e17ab-0bbf-4d4e-b25a-df5f66f555ab",
+    "data": [
+      {
+        "text": "What is covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "88716180-a52d-4d0d-9fee-8aaddd8fb6be",
+    "data": [
+      {
+        "text": "what is ncov?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b2a5636f-caab-4cab-986f-6e2d30f886b9",
+    "data": [
+      {
+        "text": "what is ncov19?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "54dabe76-1911-4409-9000-f3b11f689e3b",
+    "data": [
+      {
+        "text": "what is n-cov?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5840714a-973a-433a-9e92-cefcd93d3a60",
+    "data": [
+      {
+        "text": "What is covid",
+        "userDefined": false
+      },
+      {
+        "text": "19",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4d9bee2e-73df-41d1-a5d9-f935bbdba57e",
+    "data": [
+      {
+        "text": "Where is covid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "84b8e120-9fbe-454c-b96f-73f045bd2104",
+    "data": [
+      {
+        "text": "Corona virus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ba3d90a8-cc1f-4672-a6fa-133c8e8a6373",
+    "data": [
+      {
+        "text": "What is COVID-19?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dc18142d-42f7-4da3-8df1-b4c074020a90",
+    "data": [
+      {
+        "text": "what is the virus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "991b9186-439c-415b-b58a-64debd2a5999",
+    "data": [
+      {
+        "text": "what can you tell me about viruses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e20a6ca4-b829-4505-b431-c318e0656947",
+    "data": [
+      {
+        "text": "What is the virus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f061b136-f087-4e64-882e-16234b86e004",
+    "data": [
+      {
+        "text": "what can you tell me about covid-19",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9995f7b7-60ae-4ce6-850c-5a326c5068c2",
+    "data": [
+      {
+        "text": "What is Coronavirus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f2e024c4-081c-454e-89c3-230d6f5eb819",
+    "data": [
+      {
+        "text": "what is this new ",
+        "userDefined": false
+      },
+      {
+        "text": "coronavirus",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " disease?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7f72049b-f03a-4176-ba8a-37263113923c",
+    "data": [
+      {
+        "text": "show me something about ",
+        "userDefined": false
+      },
+      {
+        "text": "coronavirus",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cbc145fd-db99-4b94-a590-0b361b431eaf",
+    "data": [
+      {
+        "text": "explain ",
+        "userDefined": false
+      },
+      {
+        "text": "coronavirus",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " to me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cb85ce5b-5086-408a-a035-dbfdb4b2611e",
+    "data": [
+      {
+        "text": "what is the ",
+        "userDefined": false
+      },
+      {
+        "text": "novel virus",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " going around called?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6f103b19-a987-44fd-9207-4a4d63d17763",
+    "data": [
+      {
+        "text": "how did the coronavirus ",
+        "userDefined": false
+      },
+      {
+        "text": "first",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " start?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "70737663-3afc-4e7d-a11c-0723674b7e6f",
+    "data": [
+      {
+        "text": "what is coronavirus and how did it start?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4ee1fd2c-4400-4f85-8f8a-7a20c909d67b",
+    "data": [
+      {
+        "text": "what to know about the mysterious coronavirus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f462008a-635b-4517-987e-080e0ac46625",
+    "data": [
+      {
+        "text": "want to know about covid 19",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3f3eb115-f237-4450-8d82-810445b3781f",
+    "data": [
+      {
+        "text": "what is the new virus called?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8767d7c9-532c-4600-8651-c23ac992fd70",
+    "data": [
+      {
+        "text": "what is a novel coronavirus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "efb36c71-baab-484e-b2ec-33e314af7157",
+    "data": [
+      {
+        "text": "coronavirus basic info",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ce13de7b-eed0-4f5b-9424-67d3ec16f95a",
+    "data": [
+      {
+        "text": "what is COVID-19?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d4337797-f65a-4ecf-82ef-270b85f6118f",
+    "data": [
+      {
+        "text": "I want to know about coronavirus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "40de0553-1739-41b7-972e-a44205b78059",
+    "data": [
+      {
+        "text": "tell me something about coronavirus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e67b92a6-6e34-4ba4-999b-de8f1359d5cf",
+    "data": [
+      {
+        "text": "define coronavirus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5187bc06-0627-4844-89b3-92f16dfaa0ac",
+    "data": [
+      {
+        "text": "what is coronavirus?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

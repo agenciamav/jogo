@@ -1,0 +1,106 @@
+[
+  {
+    "id": "2db6917e-c29e-4e04-99be-d16b54cc6b59",
+    "data": [
+      {
+        "text": "I prefer not to answer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "81c415b2-754e-4e1b-973b-54132b6810e8",
+    "data": [
+      {
+        "text": "In between",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "95151f37-0c2f-4716-b691-4a4be661b4f2",
+    "data": [
+      {
+        "text": "I don\u0027t want to answer this question",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b2029d4d-18c5-42ae-803a-58e47820c0e4",
+    "data": [
+      {
+        "text": "I don\u0027t want to answer this survey",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "63e196ec-da23-4a63-82c2-257dcc984eec",
+    "data": [
+      {
+        "text": "I don\u0027t know",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "28e8112b-5ef1-4cf9-9d00-dd50db970da1",
+    "data": [
+      {
+        "text": "Neither",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "30fddba1-14eb-4bc3-bb5e-a77ea2079f0a",
+    "data": [
+      {
+        "text": "I don\u0027t want to participate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d9dcd04e-9be9-4791-aaf2-1f22074131ae",
+    "data": [
+      {
+        "text": "I don\u0027t want to answer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

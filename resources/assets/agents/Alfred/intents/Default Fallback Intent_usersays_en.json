@@ -1,0 +1,28 @@
+[
+  {
+    "id": "c7fbadf6-fe20-4009-80e3-e3eaac368c45",
+    "data": [
+      {
+        "text": "I want to have a corona",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b2db8021-7075-4f3b-83b0-35f7ec2c90b2",
+    "data": [
+      {
+        "text": "are you related to the corona beer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

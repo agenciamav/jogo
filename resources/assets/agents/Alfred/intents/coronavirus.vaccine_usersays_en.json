@@ -1,0 +1,393 @@
+[
+  {
+    "id": "de18bd59-6eee-4d10-9207-424bc2c8f586",
+    "data": [
+      {
+        "text": "Where can I get a vaccine?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bf1cedcf-93ea-4dcc-b837-0e05faeaea1f",
+    "data": [
+      {
+        "text": "What about vaccines?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "48aad6a2-0b3e-492e-9b12-dd5ebfa04690",
+    "data": [
+      {
+        "text": "Can I get a vaccine?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ae11e186-7617-4f8e-aea1-117d64a7fd24",
+    "data": [
+      {
+        "text": "I need a vaccine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c9461428-ec97-41ca-b336-b4090053a7e3",
+    "data": [
+      {
+        "text": "Vaccine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f756dd22-246b-4f0d-bfca-7c52a36a1e7a",
+    "data": [
+      {
+        "text": "Do we have a vaccine available?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c8573a9-de26-433c-83d9-55f57af17ee3",
+    "data": [
+      {
+        "text": "when will they start testing vaccine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "343e6c63-f3d0-4670-a280-56d7b767b498",
+    "data": [
+      {
+        "text": "Shall I get a pneumonia vaccine?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a27c3a34-ae45-4595-b7ae-f9d81c83ed4b",
+    "data": [
+      {
+        "text": "is there a vaccine?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "70b31fce-6f58-49ff-a8f6-7ae68da71815",
+    "data": [
+      {
+        "text": "Shall i get a flu shot?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b086ad71-21a1-41da-bf5a-681d9eaa2f87",
+    "data": [
+      {
+        "text": "Is there a vaccine?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ce8fa576-11c9-483d-a15e-144bfbd7a3e7",
+    "data": [
+      {
+        "text": "When can I expect a vaccine?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c91e5ef2-2b48-4f40-b823-c0340741b7f9",
+    "data": [
+      {
+        "text": "Is there a vaccine yet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0a324c5a-2967-48e3-9eac-b4e93d2fd23c",
+    "data": [
+      {
+        "text": "how far away is a ",
+        "userDefined": false
+      },
+      {
+        "text": "coronavirus",
+        "meta": "@covid-19",
+        "alias": "covid-19",
+        "userDefined": false
+      },
+      {
+        "text": " vaccine?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4f16db26-5479-4894-9d55-f263f8780903",
+    "data": [
+      {
+        "text": "Where are we in the quest for a ",
+        "userDefined": false
+      },
+      {
+        "text": "coronavirus",
+        "meta": "@covid-19",
+        "alias": "covid-19",
+        "userDefined": false
+      },
+      {
+        "text": " vaccine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "42caf4dc-41be-4c1a-a3a7-1e242a1bd874",
+    "data": [
+      {
+        "text": "are we still waiting on the vaccine to be developed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f25810f5-b3c9-449f-84c0-7c7c9bd2bc26",
+    "data": [
+      {
+        "text": "When could be see a ",
+        "userDefined": false
+      },
+      {
+        "text": "coronavirus",
+        "meta": "@covid-19",
+        "alias": "covid-19",
+        "userDefined": false
+      },
+      {
+        "text": " vaccine?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2e4ac274-14cb-4378-9960-20d54aa38c52",
+    "data": [
+      {
+        "text": "Is it true that we have a vaccine already?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0a1f8f69-ce99-427a-b6c2-608c8c53cc02",
+    "data": [
+      {
+        "text": "Is a vaccine for the ",
+        "userDefined": false
+      },
+      {
+        "text": "coronavirus",
+        "meta": "@covid-19",
+        "alias": "covid-19",
+        "userDefined": false
+      },
+      {
+        "text": " coming?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a0e105cc-2129-43c3-b8d8-fae6377f49c5",
+    "data": [
+      {
+        "text": "coronavirus",
+        "meta": "@covid-19",
+        "alias": "covid-19",
+        "userDefined": false
+      },
+      {
+        "text": " vaccine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c74f43b3-689d-438e-ab44-b2683c421d8d",
+    "data": [
+      {
+        "text": "Is a covid-19 vaccine coming soon?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ed77d96f-2f36-4c94-956b-94edd3d211bd",
+    "data": [
+      {
+        "text": "How close are we to a vaccine?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4d9da4fa-d7d5-49aa-8a9c-d370d41639d2",
+    "data": [
+      {
+        "text": "When will a ",
+        "userDefined": false
+      },
+      {
+        "text": "coronavirus",
+        "meta": "@covid-19",
+        "alias": "covid-19",
+        "userDefined": false
+      },
+      {
+        "text": " vaccine be ready?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "39c87628-6dd9-44ea-864c-c10b21017954",
+    "data": [
+      {
+        "text": "Is there a vaccine available?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2b7fc757-3fb3-4da9-8a02-23843341adc8",
+    "data": [
+      {
+        "text": "Is there a vaccine for ",
+        "userDefined": false
+      },
+      {
+        "text": "coronavirus",
+        "meta": "@covid-19",
+        "alias": "covid-19",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,59 @@
+{
+  "id": "1382c155-82e2-48ca-8c7c-89f2ceb47736",
+  "name": "coronavirus.treatment",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3e0a577d-e5ce-4998-bd88-b586c876bfcd",
+          "name": "covid-19",
+          "required": false,
+          "dataType": "@covid-19",
+          "value": "$covid-19",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "14",
+          "platform": "telephony",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "ssml": "\u003cspeak\u003eThere is no specific antiviral treatment recommended for COVID-19. People, particularly those with serious illness, may need to be hospitalized so that they can receive life-saving treatment for complications. Most patients recover thanks to such care.\u003c/speak\u003e",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "There is no specific antiviral treatment recommended for COVID-19. People, particularly those with serious illness, may need to be hospitalized so that they can receive life-saving treatment for complications. Most patients recover thanks to such care."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

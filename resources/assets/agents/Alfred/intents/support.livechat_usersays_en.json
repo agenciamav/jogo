@@ -1,0 +1,119 @@
+[
+  {
+    "id": "d70c9f8b-3fae-443b-9aaa-ad51ae519b53",
+    "data": [
+      {
+        "text": "I want to talk to a live agent.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9f3c56f4-f202-401f-bdef-c242f89e36a6",
+    "data": [
+      {
+        "text": "representative transfer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d38fb859-3511-4eba-9e81-837c297c27eb",
+    "data": [
+      {
+        "text": "talk to representative",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dfab5f00-8a04-4fe5-b236-ca9124d8f3a8",
+    "data": [
+      {
+        "text": "human agent please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2acacc52-1547-48b8-b752-133e7dce8a01",
+    "data": [
+      {
+        "text": "i need to talk to a human",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f37292c0-9705-4f65-936d-0c5dc77c15c0",
+    "data": [
+      {
+        "text": "transfer me to a live agent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "325bc221-796a-47ca-ab6d-72421e7368bf",
+    "data": [
+      {
+        "text": "talk to a nurse",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f17552cb-c785-4462-a7cc-8a85f76ada87",
+    "data": [
+      {
+        "text": "chat with a representative",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "95128f3f-360a-4d93-a3f8-2baf329e5f2b",
+    "data": [
+      {
+        "text": "I want to talk to a live agent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

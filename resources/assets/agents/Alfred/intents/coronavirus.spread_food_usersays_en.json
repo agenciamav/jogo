@@ -1,0 +1,120 @@
+[
+  {
+    "data": [
+      {
+        "text": "Can COVID-19 spread from food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Do ",
+        "userDefined": false
+      },
+      {
+        "text": "food",
+        "meta": "@surface",
+        "alias": "surface",
+        "userDefined": false
+      },
+      {
+        "text": " deliveries spread ",
+        "userDefined": false
+      },
+      {
+        "text": "COVID-19",
+        "meta": "@covid-19",
+        "alias": "covid-19",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Can ",
+        "userDefined": false
+      },
+      {
+        "text": "COVID",
+        "meta": "@covid-19",
+        "alias": "covid-19",
+        "userDefined": false
+      },
+      {
+        "text": " spread through takeout?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "data": [
+      {
+        "text": "Can the ",
+        "userDefined": false
+      },
+      {
+        "text": "virus",
+        "meta": "@covid-19",
+        "alias": "covid-19",
+        "userDefined": false
+      },
+      {
+        "text": " that causes ",
+        "userDefined": false
+      },
+      {
+        "text": "COVID-19",
+        "meta": "@covid-19",
+        "alias": "covid-191",
+        "userDefined": false
+      },
+      {
+        "text": " be spread through ",
+        "userDefined": false
+      },
+      {
+        "text": "food",
+        "meta": "@surface",
+        "alias": "surface",
+        "userDefined": false
+      },
+      {
+        "text": ", including restaurant take out, refrigerated or frozen packaged ",
+        "userDefined": false
+      },
+      {
+        "text": "food",
+        "meta": "@surface",
+        "alias": "surface1",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

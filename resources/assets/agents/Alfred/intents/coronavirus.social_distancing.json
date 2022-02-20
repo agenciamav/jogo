@@ -1,0 +1,44 @@
+{
+  "id": "e943ccf0-fe2d-4c54-88ac-4d9df5ee36c9",
+  "name": "coronavirus.social_distancing",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "14",
+          "platform": "telephony",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "ssml": "\u003cspeak\u003eSocial distancing means keeping space between you and other people outside of your home. Stay at least 6 feet from other people, don\u0027t gather in groups and stay out of crowded places. Keeping space between you and others is one of the best tools we have to avoid being exposed to this virus and slowing its spread.\u003c/speak\u003e",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Social distancing means keeping space between you and other people outside of your home. Stay at least 6 feet from other people, don\u0027t gather in groups and stay out of crowded places. Keeping space between you and others is one of the best tools we have to avoid being exposed to this virus and slowing its spread."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
